@@ -38,10 +38,5 @@ Google Colab
 
 ## Results
 
-Achieved XX% accuracy (varies with training)
-
 Supports predictions on new images
 
-## Author
-
-Developed by [Your Name]
